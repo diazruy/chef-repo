@@ -9,5 +9,5 @@
 user "ruy" do
   shell "/bin/zsh"
   home "/home/ruy"
-  system false
+  supports :manage_home => true
 end
