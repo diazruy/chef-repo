@@ -40,3 +40,6 @@ package "libqt4-dev"
 package "qt4-qmake"
 package "libshadow-ruby1.8"
 package "zsh"
+
+gem_package "bundler"
+gem_package "heroku"
